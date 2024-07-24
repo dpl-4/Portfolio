@@ -1,7 +1,5 @@
 # Portfolio
 
-Certainly! Here’s the introduction in English:
-
 ---
 
 ### Leads Conversion
