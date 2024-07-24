@@ -1,0 +1,17 @@
+# Portfolio
+
+---
+
+### Leads Conversion
+
+This project focuses on lead conversion using a comprehensive approach that includes data cleaning, analysis, preprocessing, and the application of a decision tree algorithm. The pipeline for this project consists of the following phases:
+
+1. **Data Cleaning**: An extensive data cleaning process is conducted to handle missing values, duplicates, and inconsistent data, ensuring the dataset is ready for analysis.
+
+2. **Data Analysis and Preprocessing**: This phase involves exploring the data to identify relevant patterns and features, as well as preprocessing steps such as normalization, categorical variable encoding, and splitting the data into training and testing sets.
+
+3. **Decision Tree Model**: A classification model based on decision trees is implemented to predict lead conversion. This model is optimized using Grid Search Cross-Validation (Grid Search CV) to fine-tune hyperparameters, thereby improving classification accuracy and model performance.
+
+The use of Grid Search CV allows for a systematic exploration of a wide range of hyperparameters, finding the best combination to enhance classification and increase model precision.
+
+---
